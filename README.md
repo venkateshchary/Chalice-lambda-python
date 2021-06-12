@@ -107,7 +107,7 @@ Here's why:
    ```
 
 
-4. Enter your API in `config.json`
+4. Add configurations in `config.json`
    ```json
    {"version": "2.0","app_name": "dev_hello","stages": {
    "dev": {
